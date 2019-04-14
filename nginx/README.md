@@ -25,7 +25,7 @@ note:
 
 Due to a quirk in nginx, although the following codes ARE supported, the reverse proxy returns a response without response|status code (nil)
 
-effected codes:
+Affected codes:
 
 - 203
 - 305
